@@ -104,8 +104,6 @@
                 "f:\\myProjects\\实战项目\\STM32\\learn\\Car\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
                 "f:\\myProjects\\实战项目\\STM32\\learn\\Car\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
                 "f:\\myProjects\\实战项目\\STM32\\learn\\Car\\Drivers\\CMSIS\\Include",
-                "D:\\Keil_v5\\ARM\\ARMCC\\include",
-                "D:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
                 "f:\\myProjects\\实战项目\\STM32\\learn\\Car\\MDK-ARM",
                 "f:\\myProjects\\实战项目\\STM32\\learn\\Car\\Core\\Src",
                 "f:\\myProjects\\实战项目\\STM32\\learn\\Car\\Drivers\\STM32F1xx_HAL_Driver\\Src"

@@ -1,8 +1,2 @@
-*** Using Compiler 'V5.06 update 5 (build 528)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
-Build target 'Car'
-compiling main.c...
-linking...
-Program Size: Code=12600 RO-data=312 RW-data=28 ZI-data=1956  
-FromELF: creating hex file...
-"Car\Car.axf" - 0 Error(s), 0 Warning(s).
-Build Time Elapsed:  00:00:02
+Load "Car\\Car.axf" 
+Erase Done.Programming Done.Verify OK.Flash Load finished at 21:52:56
